@@ -23,7 +23,7 @@ setup(
             'tb_openLoop = tb_control.tb_openLoop:main',
             'tb_scenario1 = tb_control.tb_scenario1:main',
             'tb_scenario2 = tb_control.tb_scenario2:main',
+            'tb_pose_plotter = tb_control.tb_pose_plotter:main',
         ],
     },
 )
-
