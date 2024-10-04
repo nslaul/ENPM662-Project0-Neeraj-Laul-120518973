@@ -98,4 +98,4 @@ To run the open loop controllers, do the following:
 
 - Special thanks to the ROS 2 community and the TurtleBot development team for their ongoing support and contributions.
 
-For further questions or contributions, feel free to open an issue or submit a pull request!
+For further questions or contributions, feel free to open an issue, email me, or submit a pull request!
